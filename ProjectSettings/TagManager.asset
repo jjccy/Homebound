@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Head
+  - NetGun
+  - TetherGun
+  - Trap
+  - Lure
+  - Flyboy
+  - Fire
+  - RabbitBlaster
+  - RolyPoly
+  - TazerFace
+  - FlyboyLure
+  - RabbitBlasterLure
+  - TazerFaceLure
+  - RolyPolyLure
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Interactable
+  - Player
+  - Minimap
+  - Path FInder
+  - Animal
+  - Bullet
+  - Build
+  - PreBuild
+  - InvisibleWall
+  - MainGamePlayPostProcessingLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

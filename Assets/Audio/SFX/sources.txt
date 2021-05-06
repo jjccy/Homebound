@@ -1,0 +1,4 @@
+https://opengameart.org/content/electricity-sound-effects-0
+https://raw.githubusercontent.com/mekanism/Mekanism/1.16.x/src/main/resources/assets/mekanism/sounds/item/jetpack.ogg
+https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt
+https://opengameart.org/content/thunder-rain-and-wind

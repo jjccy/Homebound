@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="928d410f-dcc8-4d23-85c2-5f9e04973e5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/0d3d0d2d48aac8e40951aab3fb9c95cb/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/1651bfbb4d701364aa0da36d6286d268/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/52121e8f56e970048af48a4c1e306bf7/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/540e033f0283f4947bd3bceb9add98e7/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/632282f585ba56248af55a7eee4cbdf1/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/784d222c6d95eeb43a71c572fb1d02a8/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/ab4214ec3fc733642b98a4733de6b885/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/b7d8c014cd5a8ee42bf6ad5971d64d5f/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/bd442e4605dc7fd45b399a5490b40f30/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/be1d7d16d1895f94d959123641ce56fb/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/da386349f119d8f4dbaecff726602976/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiggerData/Scenes/PlayTesting/ffde0383f14bb174896a5a586396cee9/current_version.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LureSlot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LureSlot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TagSelectorAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TagSelectorAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TagSelectorPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TagSelectorPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weapon/LureHoldable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Weapon/LureHoldable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TerrainData_3b6ee7d5-3022-46d0-94d5-22e7b0b89402.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../TerrainData_3b6ee7d5-3022-46d0-94d5-22e7b0b89402.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Weapon/LureHoldable.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Weapon/LureHoldable.cs" />
+        <option value="$PROJECT_DIR$/LureSlot.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kUPYaDR6XZjensv2qlG9OOTTZp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="928d410f-dcc8-4d23-85c2-5f9e04973e5d" name="Default Changelist" comment="" />
+      <created>1605752250642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605752250642</updated>
+      <workItem from="1605752261051" duration="235000" />
+      <workItem from="1605752544730" duration="54000" />
+      <workItem from="1605752634747" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
